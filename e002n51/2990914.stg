@@ -1,0 +1,6 @@
+OBJECT_SHARED Models/Communications/radio-tall.xml 2.577755 51.010555 -1.97 0
+OBJECT_SHARED Models/Communications/vordme_1.xml 2.651667 51.094722 1.09 180
+OBJECT_SHARED Models/Communications/vordme_1.xml 2.654722 51.099167 1.25 180
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml 2.5138333 51.1141667 -0.35 16.53
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 2.5066667 51.1043333 -0.38 59.18
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac 2.5 51.1216667 -0.13 328.1

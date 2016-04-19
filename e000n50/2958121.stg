@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac 0.252618 50.739944 152.39 180
+OBJECT_SHARED Models/Misc/generic_lighthouse.ac 0.4355 50.7233333 -14.97 180
+OBJECT_STATIC BeachyHeadLighthouse.xml 0.2584052 50.74084502 59.05 144
+OBJECT_STATIC RoyalSovereignLighthouse.xml 0.43805754 50.71729261 0 0
