@@ -1,409 +1,223 @@
-OBJECT_SHARED Models/Power/coolingtower.xml 4.426587 50.941477 8.92 108
-OBJECT_SHARED Models/Power/coolingtower.xml 4.427885 50.941842 10.82 108
-OBJECT_SHARED Models/Airport/ils.xml 4.4945 50.889972 49.86 344.47
-OBJECT_SHARED Models/Airport/ils.xml 4.495 50.911389 27.18 113.69
-OBJECT_SHARED Models/Communications/vordme_1.xml 4.494417 50.89 49.81 180
-OBJECT_SHARED Models/Communications/vordme_1.xml 4.494722 50.911389 27.19 180
-OBJECT_SHARED Models/Airport/marker.ac 4.487378 50.877778 54.73 180
-OBJECT_SHARED Models/Industrial/WaterWorks40m.xml 4.419708 50.948292 12.18 0
-OBJECT_SHARED Models/Industrial/WaterWorks40m.xml 4.420252 50.948432 12.13 0
-OBJECT_SHARED Models/Industrial/WaterWorks40m.xml 4.420628 50.949202 11.41 0
-OBJECT_SHARED Models/Industrial/WaterWorks40m.xml 4.42071 50.948819 11.63 0
-OBJECT_SHARED Models/Airport/localizer.xml 4.448611 50.896944 34.88 335.3
-OBJECT_SHARED Models/Airport/localizer.xml 4.478194 50.888528 43.23 339.88
-OBJECT_SHARED Models/Airport/localizer.xml 4.490556 50.885 48.41 284.51
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.250313 50.979704 17.62 257.13
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2513687 50.9827949 17.44 258.18
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2519828 50.9009275 57.78 27.86
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2523472 50.9858208 16.57 258.3
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2533685 50.9888735 17.04 258.14
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2544414 50.9920988 16.65 258.14
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2553684 50.9948702 13.92 257.89
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2554503 50.9021725 58.05 29.71
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2563984 50.9978358 13.35 257.9
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2596388 50.9036826 63.42 29.48
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2597565 50.9037241 63.27 29.2
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2640334 50.9052307 64.16 29.2
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2682616 50.9067208 66.5 29.52
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2720639 50.9080955 62.22 29.37
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2757632 50.9093836 62.95 28.71
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2791621 50.9105472 59.57 30.49
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2792361 50.9103397 61 286.97
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2802575 50.908229 63.22 287.2
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.281502 50.9057285 58.21 287.35
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2823722 50.9118352 56.84 31.17
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2827638 50.9031684 58.15 287.27
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2858398 50.9130907 51.86 31.61
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2888782 50.9143516 52.11 32.54
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.29232 50.9156936 47.49 24.19
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2959935 50.9163863 49.38 16.55
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.3003537 50.9171979 48.09 16.96
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.3041732 50.9179555 44.39 16.71
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.3086192 50.9187563 46.48 15.87
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.3133828 50.9196058 45.31 354.01
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.3178632 50.9181178 47.86 332.41
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.3213393 50.9169815 42.84 332.9
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.3246352 50.9159317 35.8 348.65
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.3278625 50.9160778 33.69 12.57
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.3318793 50.9170518 34.46 27.26
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.3357331 50.9186589 35.69 34.27
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.3393552 50.9202605 31.66 13.78
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.3447024 50.9198169 32.12 352.16
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.3482215 50.9194976 39.51 351.35
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.3531482 50.9189998 51.52 350.84
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.3564784 50.9186589 59.66 358.5
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.359946 50.918897 65.65 7.7
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.36398 50.9193082 57.73 9.17
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.3685634 50.9197736 57.5 7.15
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.372091 50.9199738 57.4 4.99
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.3760564 50.9201848 40.76 5.09
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.379996 50.9204175 44.27 13.21
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.383764 50.9213319 46.32 27.65
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.3861844 50.9223707 46.29 38.44
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.3887937 50.9267422 46.43 264.46
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.3894116 50.9242427 46.23 250.74
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.3902356 50.929247 41.58 47.14
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.3936517 50.9302153 35.25 24.19
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.3969991 50.931162 31.93 42.28
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.3987157 50.9330661 26.96 60.48
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4004066 50.9349539 23.55 60.84
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4022433 50.9370526 21.72 32.13
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4069469 50.9372148 18.65 22
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4082686 50.9877327 12.07 280.34
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4086377 50.9918171 10.37 86.52
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4091184 50.9965008 9.65 86.12
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4096505 50.9944858 8.31 274.61
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4099681 50.9975757 8.78 86.19
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4108693 50.9911418 9.29 102.88
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4108779 50.9840315 9.19 114.15
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4110238 50.9394378 20.19 40.66
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.412131 50.987657 8.33 103.01
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4134786 50.9840369 9.4 102.91
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.413573 50.9802868 9.35 120.79
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4145772 50.941347 12.88 31.14
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4146888 50.9806381 9.04 102.86
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4160878 50.9768499 11.91 115.74
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4171435 50.9773255 10.5 127
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4171521 50.9460303 11.24 260.49
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4173839 50.9420555 12.33 349.32
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4177873 50.9426504 12.8 109.3
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4191091 50.9413091 11.94 132.65
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4194266 50.9741963 10.11 128.52
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4196326 50.940725 11.49 320.2
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4200875 50.9435157 15.31 269.83
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4201476 50.94994 11.42 63.57
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4201901 50.94119 11.92 116.01
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4201905 50.9454301 13.42 86.22
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4204309 50.9745585 10.21 126.52
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4208686 50.9497778 10.8 74.05
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4222161 50.9395243 11.89 333.12
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4226195 50.9396704 13.78 138.25
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4227655 50.9394162 12.51 342.66
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.422808 50.9398271 14.45 150.73
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4228599 50.9395081 12.65 133.03
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4229972 50.9723534 9.32 126.88
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4231345 50.9536168 12.84 67.89
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4236066 50.9709049 9.72 128.35
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4236409 50.9533141 11.52 67.3
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4238551 50.9404166 14.54 111.56
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4239066 50.9395891 10.25 161.03
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.424628 50.9566716 9.98 72.56
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.424825 50.9388698 8.78 111.56
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4252288 50.9562013 10.78 71.05
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4258464 50.9514377 9.23 27.02
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4259069 50.9591856 9.58 72.35
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4266364 50.9588072 9.29 71.65
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4271943 50.9680186 10.05 110.23
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4274089 50.964797 9.76 91.9
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4275033 50.9623698 11.57 261.94
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4278295 50.9683916 10.86 109.73
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4280355 50.9645537 9.97 91.99
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.42819 50.9618346 12.78 262.07
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4310134 50.9530976 7.67 27.67
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4353478 50.9545683 8.97 11.13
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4421542 50.9541141 6.98 354.45
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4488404 50.9537411 7.9 354.89
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4552949 50.9533734 8.48 354.68
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4612945 50.9530111 7.98 354.49
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4678433 50.952611 9.73 354.59
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4724782 50.9523407 8.81 3.92
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4782546 50.9531896 8 13.57
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4837649 50.9540547 6.85 13.71
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4883311 50.9547413 7.74 13.49
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.4931033 50.9554658 7.87 13.5
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.498957 50.9563471 7.92 13.22
-OBJECT_SHARED Models/Boundaries/Hedge_10m.ac 4.395472 50.947367 16.44 0
-OBJECT_SHARED Models/Boundaries/Hedge_10m.ac 4.395848 50.948005 16.28 90
-OBJECT_SHARED Models/Boundaries/Hedge_10m.ac 4.396029 50.948007 16.19 90
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml 4.395207 50.948962 16.38 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml 4.395221 50.949051 16.37 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml 4.395231 50.949134 16.35 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml 4.395256 50.949234 16.2 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml 4.395271 50.94932 16.05 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml 4.395283 50.949393 15.93 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml 4.395449 50.949055 16.31 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml 4.395612 50.949045 16.28 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml 4.395939 50.947143 16.17 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 4.395412 50.947817 16.44 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 4.395424 50.947728 16.44 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 4.395428 50.947634 16.44 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 4.395567 50.947831 16.4 0
-OBJECT_SHARED Models/Aircraft/B1900_services.xml 4.490278 50.912474 26.12 300
-OBJECT_SHARED Models/Aircraft/Cessna150.xml 4.39375117 50.94517709 17.41 100
-OBJECT_SHARED Models/Aircraft/Cessna150.xml 4.39425215 50.94612442 16.96 316
-OBJECT_SHARED Models/Aircraft/Cessna150.xml 4.3944102 50.94723494 16.61 270.4
-OBJECT_SHARED Models/Aircraft/Cessna172.xml 4.39419765 50.94588175 17.05 300
-OBJECT_SHARED Models/Aircraft/Cessna172.xml 4.39441427 50.94777242 16.45 271.2
-OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 4.487607 50.899405 39.54 25
-OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 4.489128 50.901233 37.82 220
-OBJECT_SHARED Models/Aircraft/D112.xml 4.39117292 50.94361761 18.04 99.6
-OBJECT_SHARED Models/Aircraft/D112.xml 4.39436997 50.94603016 16.95 259.6
-OBJECT_SHARED Models/Aircraft/D112.xml 4.39440851 50.94800521 16.37 267.6
-OBJECT_SHARED Models/Aircraft/DR400.xml 4.39038257 50.94332423 17.83 104
-OBJECT_SHARED Models/Aircraft/DR400.xml 4.39042205 50.9432281 17.82 104
-OBJECT_SHARED Models/Aircraft/DR400.xml 4.39046905 50.94312896 17.81 108
-OBJECT_SHARED Models/Aircraft/DR400.xml 4.39440419 50.94764113 16.51 271.2
-OBJECT_SHARED Models/Aircraft/DR400.xml 4.39440777 50.94789421 16.4 272.4
-OBJECT_SHARED Models/Aircraft/DR400.xml 4.39441025 50.94751669 16.54 272.4
-OBJECT_SHARED Models/Aircraft/DR400.xml 4.39441319 50.9473879 16.57 269.2
-OBJECT_SHARED Models/Aircraft/DR400.xml 4.39487697 50.94499252 17 344
-OBJECT_SHARED Models/Transport/hummerh2.xml 4.395287 50.948887 16.39 90
-OBJECT_SHARED Models/Transport/hummerh2.xml 4.395636 50.948109 16.38 0
-OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml 4.410612 50.942074 18.65 0
-OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml 4.413153 50.938551 14.48 0
-OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml 4.413747 50.95089 16.91 15
-OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml 4.416525 50.947229 11.63 15
-OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml 4.419097 50.937721 10.08 165
-OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml 4.421009 50.935213 11.51 0
-OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml 4.421096 50.941829 14.26 80
-OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml 4.424267 50.946737 13.23 90
-OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml 4.425488 50.938394 9.55 0
-OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml 4.429565 50.945427 14.43 0
-OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml 4.430009 50.948812 12.25 0
-OBJECT_SHARED Models/Industrial/ContainerCrane.xml 4.421819 50.945404 12.09 90
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.38449 50.942525 19.02 0
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.386861 50.941401 18.43 0
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.388776 50.94197 18.73 0
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.389095 50.953339 18.72 0
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.389209 50.94203 18.77 0
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.389385 50.953504 18.29 0
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.391516 50.953754 17.16 0
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.392141 50.942739 17.61 0
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.39215 50.953896 17.53 0
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.392937 50.943035 17.35 0
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.393516 50.954975 16.98 0
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.394398 50.953496 15.03 0
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.395081 50.95185 16.57 0
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.396245 50.949346 15.81 0
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.396396 50.944577 15.58 0
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.396459 50.94823 16.47 0
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.39646 50.948016 16.19 0
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.396471 50.949824 15.2 0
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.396547 50.947777 15.81 0
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.397167 50.945129 14.93 0
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.398618 50.950422 15.33 0
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.399605 50.951116 15.85 0
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.400001 50.945825 14.49 0
-OBJECT_SHARED Models/Agriculture/farmhouse2.ac 4.387501 50.941637 18.68 0
-OBJECT_SHARED Models/Agriculture/farmhouse2.ac 4.388122 50.953169 19.26 0
-OBJECT_SHARED Models/Agriculture/farmhouse2.ac 4.38821 50.941859 18.88 0
-OBJECT_SHARED Models/Agriculture/farmhouse2.ac 4.38848 50.941937 18.74 0
-OBJECT_SHARED Models/Agriculture/farmhouse2.ac 4.392994 50.943218 17.23 0
-OBJECT_SHARED Models/Agriculture/farmhouse2.ac 4.393092 50.94308 17.31 0
-OBJECT_SHARED Models/Agriculture/farmhouse2.ac 4.393776 50.954683 16.52 0
-OBJECT_SHARED Models/Agriculture/farmhouse2.ac 4.394227 50.953963 15.42 0
-OBJECT_SHARED Models/Agriculture/farmhouse2.ac 4.398299 50.950257 15.28 0
-OBJECT_SHARED Models/Agriculture/farmhouse3.ac 4.385069 50.942662 19.32 0
-OBJECT_SHARED Models/Agriculture/farmhouse3.ac 4.387229 50.941466 18.53 0
-OBJECT_SHARED Models/Agriculture/farmhouse3.ac 4.389238 50.941684 18.63 0
-OBJECT_SHARED Models/Agriculture/farmhouse3.ac 4.390929 50.953691 17.14 0
-OBJECT_SHARED Models/Agriculture/farmhouse3.ac 4.392478 50.953907 17.37 0
-OBJECT_SHARED Models/Agriculture/farmhouse3.ac 4.392687 50.943014 17.39 0
-OBJECT_SHARED Models/Agriculture/farmhouse3.ac 4.393558 50.94298 17.57 0
-OBJECT_SHARED Models/Agriculture/farmhouse3.ac 4.393869 50.943076 17.64 0
-OBJECT_SHARED Models/Agriculture/farmhouse3.ac 4.39395 50.95451 16.35 0
-OBJECT_SHARED Models/Agriculture/farmhouse3.ac 4.394161 50.943183 17.4 0
-OBJECT_SHARED Models/Agriculture/farmhouse3.ac 4.394317 50.953728 15.16 0
-OBJECT_SHARED Models/Agriculture/farmhouse3.ac 4.394588 50.953078 15.37 0
-OBJECT_SHARED Models/Agriculture/farmhouse3.ac 4.394724 50.952863 15.48 0
-OBJECT_SHARED Models/Agriculture/farmhouse3.ac 4.394932 50.952361 15.55 0
-OBJECT_SHARED Models/Agriculture/farmhouse3.ac 4.39699 50.946099 15.57 0
-OBJECT_SHARED Models/Agriculture/farmhouse3.ac 4.397058 50.944883 15.07 0
-OBJECT_SHARED Models/Agriculture/farmhouse3.ac 4.397864 50.944684 14.56 0
-OBJECT_SHARED Models/Agriculture/farmhouse3.ac 4.39865 50.945985 14.23 0
-OBJECT_SHARED Models/Agriculture/farmhouse3.ac 4.398783 50.950519 15.34 0
-OBJECT_SHARED Models/Transport/hatchback_red.ac 4.39519824 50.94781274 16.49 275.6
-OBJECT_SHARED Models/Transport/hatchback_red.ac 4.39520848 50.94778834 16.49 91.6
-OBJECT_SHARED Models/Transport/hatchback_red.ac 4.39539833 50.9488834 16.37 0
-OBJECT_SHARED Models/Transport/hatchback_red.ac 4.395761 50.948859 16.29 0
-OBJECT_SHARED Models/Transport/hatchback_red.ac 4.395842 50.94842 16.31 90
-OBJECT_SHARED Models/Transport/hatchback_red.ac 4.39596008 50.9488571 16.25 0
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 4.39519611 50.94783704 16.49 275.6
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 4.39521002 50.94776186 16.49 95.6
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 4.39522342 50.94765935 16.5 275.6
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 4.39522401 50.94769937 16.49 95.6
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 4.3955018 50.94888547 16.34 0
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 4.395627 50.948875 16.32 0
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 4.39571933 50.9488743 16.3 176
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 4.395789 50.948211 16.33 0
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 4.39590094 50.94886462 16.26 0
-OBJECT_SHARED Models/Transport/van_red.ac 4.39537313 50.94719295 16.48 188
-OBJECT_SHARED Models/Transport/van_red.ac 4.39583429 50.94886145 16.28 0
-OBJECT_SHARED Models/Transport/van_silver.ac 4.39534151 50.9488828 16.38 180
-OBJECT_SHARED Models/Transport/van_silver.ac 4.39586126 50.94810563 16.28 268
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.480929 50.902228 35.43 297
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.481487 50.902386 35.36 297
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.482044 50.902549 35.28 297
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.482328 50.90217 35.66 117
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.482605 50.90271 35.19 297
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.48289 50.902331 35.59 117
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.483169 50.902873 35.09 297
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.483449 50.902493 35.53 117
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.483729 50.903035 35.03 297
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.484009 50.902655 35.47 117
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.484289 50.903198 34.97 297
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.484534 50.899151 38.96 117
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.484567 50.902816 35.41 117
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.484844 50.903356 34.91 297
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.485126 50.902976 35.35 117
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.485405 50.903518 34.81 297
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.485406 50.899707 38.76 297
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.485587 50.89946 39.01 117
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.485687 50.903139 35.27 117
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.485931 50.89986 38.74 297
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.485968 50.903682 34.71 297
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.486118 50.899613 39.03 117
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.486246 50.9033 35.16 117
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.486461 50.900011 38.68 297
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.486529 50.903846 34.59 297
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.486646 50.899766 38.97 117
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.486806 50.903461 35.05 117
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.486989 50.900165 38.63 297
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.487173 50.899917 38.92 117
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.487333 50.904076 34.44 297
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.487613 50.903697 34.9 117
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.487699 50.900072 38.86 117
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.487898 50.90424 34.33 297
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.488175 50.903856 34.81 117
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.488226 50.900223 38.79 117
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.488453 50.904398 34.22 297
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.488733 50.904019 34.68 117
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.488757 50.900374 38.69 117
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.489011 50.90456 34.09 297
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.489106 50.90078 38.3 297
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.489284 50.900528 38.6 117
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.489293 50.904179 34.56 117
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.489509 50.904705 33.98 297
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.489629 50.900931 38.25 297
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.489813 50.90068 38.55 117
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.48985 50.904339 34.44 117
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.490121 50.904881 33.84 297
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.490159 50.901085 38.2 297
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.490341 50.90083 38.51 117
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.490688 50.901239 38.11 297
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.491215 50.901389 38 297
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.491401 50.901136 38.32 117
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.491745 50.901542 37.9 297
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.492276 50.901693 37.78 297
-OBJECT_SHARED Models/Airport/ebgb_building_ref_004.xml 4.393997 50.945847 17.12 0
-OBJECT_SHARED Models/Airport/ebgb_building_ref_004.xml 4.394115 50.944947 17.34 0
-OBJECT_SHARED Models/Sport/terrain_de_foot_generic.ac 4.330324 50.895885 52.88 40
-OBJECT_SHARED Models/Sport/terrain_de_foot_generic.ac 4.33116 50.89633 56.71 40
-OBJECT_SHARED Models/Sport/terrain_de_foot_generic.ac 4.338031 50.892636 44.85 40
-OBJECT_SHARED Models/Sport/terrain_de_foot_generic.ac 4.39235076 50.9436147 17.83 283.1
-OBJECT_SHARED Models/Sport/terrain_de_foot_generic.ac 4.398705 50.880428 26.25 0
-OBJECT_SHARED Models/Sport/terrain_de_foot_generic.ac 4.400847 50.880917 29.21 0
-OBJECT_SHARED Models/Sport/terrain_de_foot_generic.ac 4.421254 50.891852 32.85 0
-OBJECT_SHARED Models/Sport/terrain_de_foot_generic.ac 4.433574 50.890286 37.75 0
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39526574 50.94793696 16.47 355.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39527193 50.9479686 16.47 355.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.3952788 50.94800218 16.46 355.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39528464 50.94803511 16.46 355.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39529443 50.94806465 16.46 339.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39531154 50.94848482 16.43 101.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39531445 50.94809384 16.45 339.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39532433 50.94818328 16.45 359.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39533026 50.94812409 16.45 339.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39533215 50.94815724 16.45 3.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39533413 50.94821068 16.45 339.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39534665 50.94848651 16.43 86.8
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39535009 50.94823768 16.44 339.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39536086 50.94856877 16.43 107.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39536679 50.94826763 16.44 339.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39537881 50.94869775 16.42 91.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39538163 50.94847892 16.43 48
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39538245 50.94829557 16.43 339.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39539779 50.9483224 16.43 339.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39539938 50.94858419 16.42 124.4
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39540355 50.94846204 16.43 26.4
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39540983 50.94835038 16.43 351.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39541243 50.94868743 16.42 218
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39541542 50.94843831 16.43 10.4
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.3954167 50.94837994 16.43 359.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.3954196 50.94840979 16.43 2.4
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39542917 50.94860653 16.42 144.4
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39543479 50.94866394 16.42 201.2
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39544184 50.94863617 16.42 180
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39549394 50.94825112 16.42 344
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39551053 50.94828806 16.42 344
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39551688 50.94825032 16.41 89.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39552533 50.94832424 16.41 344
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39554111 50.94836027 16.41 344
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39554835 50.94824986 16.4 89.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39555519 50.9483915 16.41 344
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39558146 50.9482496 16.39 89.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.3956143 50.94824931 16.38 89.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39563257 50.9480803 16.38 89.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.3956461 50.94824892 16.37 89.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39566094 50.94808054 16.37 89.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39567871 50.94824848 16.36 89.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39569151 50.94808084 16.36 89.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.3957124 50.94824831 16.35 89.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.3957202 50.94808095 16.34 89.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39575027 50.94824793 16.34 89.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39575114 50.94808124 16.33 89.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39578205 50.94808139 16.31 89.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39578499 50.94824768 16.33 89.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39581195 50.94808164 16.3 89.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39582405 50.94824727 16.31 89.6
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39599954 50.94866006 16.26 268
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39603523 50.94865926 16.24 268
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39607364 50.94865809 16.21 268
-OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39610501 50.94865708 16.2 268
-OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.458961 50.903145 32.26 25
-OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.461246 50.903758 32.19 25
-OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.46838617 50.90612212 31.12 3
-OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.473844 50.898118 37.19 300
-OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.478746323 50.89194549 42.25 200
-OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.48059797 50.90250893 35.12 200
-OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.481970491 50.902982953 34.86 200
-OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.48262733 50.90191816 35.97 30
-OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.483648778 50.903466022 34.59 200
-OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.48379642 50.9021948 35.91 30
-OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.48445036 50.90233755 35.88 30
-OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.485885408 50.904119877 34.21 200
-OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.486035511 50.899073695 39.46 30
-OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.486526325 50.900546168 38.14 200
-OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.48917927 50.903664308 35.14 30
-OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.48947068 50.905180232 33.42 200
-OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.489741399 50.90012902 39.13 30
-OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.490014133 50.897742225 41.73 30
-OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.490429293 50.904034444 34.86 30
-OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.490802488 50.900450373 39 30
-OBJECT_STATIC Atomium.xml 4.341111 50.894722 58.52 0
-OBJECT_STATIC ebbr_terminal_1.xml 4.48373 50.899085 38.79 205
-OBJECT_STATIC ebbr_terminal_2.xml 4.481877 50.902323 35.47 204
-OBJECT_STATIC ebbr_building_ref_037.ac 4.48772 50.894814 43.69 210
-OBJECT_STATIC ebbr_old_tower.ac 4.485552 50.897063 40.99 207
-OBJECT_STATIC ebgb_control_tower.xml 4.395874 50.948297 16.29 0
-OBJECT_STATIC ebgb_bar.ac 4.395537 50.947988 16.41 270
-OBJECT_STATIC ebgb_building_ref_008.ac 4.39080092 50.9432896 17.9 20.8
-OBJECT_STATIC ebgb_building_ref_009.ac 4.3913089 50.9435041 18.02 289.2
-OBJECT_STATIC nato.xml 4.422066 50.875145 53.68 110
-OBJECT_STATIC ebbr_building_ref_031.ac 4.478454 50.89278 41.76 115
-OBJECT_STATIC ebbr_building_ref_036.ac 4.484099 50.894954 42.33 115
-OBJECT_STATIC ebbr_building_ref_038c.ac 4.483129 50.895787 41.37 115
-OBJECT_STATIC ebbr_building_ref_039.ac 4.481798 50.897527 39.64 115
-OBJECT_STATIC ebbr_building_ref_038.ac 4.483129 50.895787 41.37 115
-OBJECT_STATIC ebbr_building_ref_041.ac 4.480367 50.898526 38.52 115
-OBJECT_STATIC palais_du_heysel_5.ac 4.337091 50.89965 73.55 120
+OBJECT_BASE 3023673.btg
+OBJECT EBBR.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 4.491587 50.889244 49.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 4.457605 50.899971 33.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 4.482303 50.889867 44.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 4.521749 50.898179 45.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 4.502044 50.911118 27.6 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 4.495360 50.900022 40.3 0.00
+OBJECT_SIGN {@L}A3{@R}{^l}25R-07L{^r}{@Y}{^lu}B5|B6{^ru}{@@}{@L}A3{@Y}{^l}N5|{^r}N6 4.482577 50.907902 30.2 200.00 3
+OBJECT_SIGN {@L}A3{@R}{^l}25R-07L{^r}{@Y}{^lu}B5|B6{^ru}{@@}{@L}A3{@Y}{^l}N5|{^r}N6 4.481845 50.907742 30.3 200.00 3
+OBJECT_SIGN {@L}A5{@R}{^l}25R-07L{^r}{@@}{@L}A5{@Y}{^l}N4|APRON_11{^ru}|{^r}N5 4.475047 50.905311 32.1 204.80 3
+OBJECT_SIGN {@L}A5{@R}{^l}25R-07L{^r}{@@}{@L}A5{@Y}{^l}N4|APRON_11{^ru}|{^r}N5 4.474467 50.905148 32.2 204.80 3
+OBJECT_SIGN {@L}A6{@Y}{^ru}B9{@R}{^l}25R-07L{^r}{@@}{@L}A6{@Y}{^lu}N2|N3{^rd} 4.466464 50.903027 33.0 243.00 3
+OBJECT_SIGN {@L}A6{@Y}{^ru}B9{@R}{^l}25R-07L{^r}{@@}{@L}A6{@Y}{^lu}N2|N3{^rd} 4.466865 50.903523 32.7 243.00 3
+OBJECT_SIGN {@L}A7{@R}07L{@Y}{^u}P1{@@}{@L}A7{@Y}{^l}N1|{^u}CARGO_AREA{^u}|N2{^r} 4.456081 50.899860 33.2 204.80 3
+OBJECT_SIGN {@L}A7{@R}07L{@Y}{^u}P1{@@}{@L}A7{@Y}{^l}N1|{^u}CARGO_AREA{^u}|N2{^r} 4.455032 50.899568 33.2 204.80 3
+OBJECT_SIGN {@L}APRON10{@Y}{^r}N3|{^lu}N4{@@}{@Y}{^u}APRON_10{^u} 4.470357 50.906090 31.2 205.00 3
+OBJECT_SIGN {@L}B1{@R}{^ld}25R-20{^rd}{@Y}{^lu}A1{@@}{@L}B1{@Y}{^l}E6|{^lu}OUTER_7|{^ru}OUTER_6|B3{^r} 4.499615 50.910148 28.5 321.00 3
+OBJECT_SIGN {@L}B1{@R}{^ld}25R-20{^rd}{@Y}{^lu}A1{@@}{@L}B1{@Y}{^l}E6|{^lu}OUTER_7|{^ru}OUTER_6|B3{^r} 4.498712 50.910567 28.0 321.00 3
+OBJECT_SIGN {@L}B3{@R}{^l}07L-25R{^r}{@@}{@L}B3{@Y}{^l}B1|{^u}E6|OUTER_6{^rd}|INNER_7{^ru} 4.496461 50.909780 28.7 45.00 3
+OBJECT_SIGN {@L}B3{@R}{^l}07L-25R{^r}{@@}{@L}B3{@Y}{^l}B1|{^u}E6|OUTER_6{^rd}|INNER_7{^ru} 4.495402 50.909392 29.1 45.20 3
+OBJECT_SIGN {@L}B5{@R}{^l}07L-25R{^r}{@Y}{^ru}A3{@@}{@L}B5{@Y}{^lu}OUTER_5|OUTER_4{^rd} 4.484857 50.906598 31.6 55.00 3
+OBJECT_SIGN {@L}B5{@R}{^l}07L-25R{^r}{@Y}{^ru}A3{@@}{@L}B5{@Y}{^lu}OUTER_5|OUTER_4{^rd} 4.484428 50.906181 32.0 55.00 3
+OBJECT_SIGN {@L}B6{@R}{^l}07L-25R{^r}{@Y}{^lu}A3{@@}{@L}B6{@Y}{^ld}OUTER_4|OUTER_3{^ru} 4.482072 50.906003 32.0 335.00 3
+OBJECT_SIGN {@L}B6{@R}{^l}07L-25R{^r}{@Y}{^lu}A3{@@}{@L}B6{@Y}{^ld}OUTER_4|OUTER_3{^ru} 4.482867 50.905753 32.3 335.00 3
+OBJECT_SIGN {@L}B7{@R}{^l}07L-25R{^r}{@@}{@L}B7{@Y}{^ld}OUTER_3|OUTER_2{^ru} 4.477456 50.904213 33.2 330.00 3
+OBJECT_SIGN {@L}B7{@R}{^l}07L-25R{^r}{@@}{@L}B7{@Y}{^ld}OUTER_3|OUTER_2{^ru} 4.476685 50.904487 32.9 330.00 3
+OBJECT_SIGN {@L}B8{@R}{^l}07L-25R{^r}{@Y}{^u}A6{@@}{@L}B8{@Y}{^lu}OUTER_3|OUTER_2{^rd} 4.469751 50.901894 34.1 62.00 3
+OBJECT_SIGN {@L}B8{@R}{^l}07L-25R{^r}{@Y}{^u}A6{@@}{@L}B8{@Y}{^lu}OUTER_3|OUTER_2{^rd} 4.470123 50.902336 33.8 62.00 3
+OBJECT_SIGN {@L}B9{@Y}{^l}A6{@R}{^l}07L-25R{^r}{@@}{@L}B9{@Y}{^ld}OUTER_2|OUTER_1{^ru} 4.467304 50.901673 33.9 336.00 3
+OBJECT_SIGN {@L}B9{@Y}{^l}A6{@R}{^l}07L-25R{^r}{@@}{@L}B9{@Y}{^ld}OUTER_2|OUTER_1{^ru} 4.468138 50.901441 34.1 336.00 3
+OBJECT_SIGN {@L}C1{@R}{^l}25L-07R{^r}{@@}{@L}C1{@Y}{^lu}V1|{^u}Y 4.509417 50.896707 46.9 242.00 3
+OBJECT_SIGN {@L}C1{@R}{^l}25L-07R{^r}{@@}{@L}C1{@Y}{^lu}V1|{^u}Y 4.509756 50.897135 46.4 242.00 3
+OBJECT_SIGN {@L}C2{@R}{^l}25L-07R{^r}{@@}{@L}C2{@Y,^l}C3|{^lu}F2|W1{^r}|V1{^rd} 4.502118 50.894788 48.0 262.00 3
+OBJECT_SIGN {@L}C2{@R}{^l}25L-07R{^r}{@@}{@L}C2{@Y,^l}C3|{^lu}F2|W1{^r}|V1{^rd} 4.502262 50.895354 47.4 262.00 3
+OBJECT_SIGN {@L}C3{@R}{^l}25L-07R{^r}{@Y}{^u}D1{@@}{@L}C3{@Y}{^ld}F2|{^u}W1|C2{^r}|V1{^ru} 4.499205 50.894111 48.0 165.60 3
+OBJECT_SIGN {@L}C3{@R}{^l}25L-07R{^r}{@Y}{^u}D1{@@}{@L}C3{@Y}{^ld}F2|{^u}W1|C2{^r}|V1{^ru} 4.498352 50.894250 47.6 165.60 3
+OBJECT_SIGN {@L}C4{@R}{^l}25L-07R{^r}{@@}{@L}C4{@R}{^ld}02-20{^ru}{@Y}{^lu}E1|{^u}E3|F2{^rd} 4.496436 50.893476 47.8 233.00 3
+OBJECT_SIGN {@L}C4{@R}{^l}25L-07R{^r}{@@}{@L}C4{@R}{^ld}02-20{^ru}{@Y}{^lu}E1|{^u}E3|F2{^rd} 4.496959 50.893929 47.5 233.00 3
+OBJECT_SIGN {@L}C5{@R}{^ld}20-02{^ru}|{^lu}25L-07R{^rd}{@@}{@L}C5{@Y}{^ld}C6|E1{^rd}|OUTER_10{^ru} 4.492663 50.892956 47.0 227.00 3
+OBJECT_SIGN {@L}C5{@R}{^ld}20-02{^ru}|{^lu}25L-07R{^rd}{@@}{@L}C5{@Y}{^ld}C6|E1{^rd}|OUTER_10{^ru} 4.492057 50.892494 47.2 227.00 3
+OBJECT_SIGN {@L}C6{@R}{^l}25L-07R{^r}{@@}{@L}C6{@Y}{^ld}OUTER_11|C5{^rd}|E1{^ru} 4.490974 50.892191 47.0 165.60 3
+OBJECT_SIGN {@L}C6{@R}{^l}25L-07R{^r}{@@}{@L}C6{@Y}{^ld}OUTER_11|C5{^rd}|E1{^ru} 4.490119 50.892316 46.6 165.60 3
+OBJECT_SIGN {@L}D1{@Y}{^ru}P6/F1{^ru}{@@}{@L}D1{@R}{^l}07R-25L{^r}{@Y}{^lu}C4 4.498432 50.892388 49.4 165.60 3
+OBJECT_SIGN {@L}D1{@Y}{^ru}P6/F1{^ru}{@@}{@L}D1{@R}{^l}07R-25L{^r}{@Y}{^lu}C4 4.497719 50.892504 49.1 165.60 3
+OBJECT_SIGN {@L}D2{@R}02_CAT_{r1}{@Y}{^lu}P7{@@}{@L}D2{@R}{^l}07R-25L{^r}{@Y}{^u}C6 4.489109 50.889761 47.8 165.60 3
+OBJECT_SIGN {@L}D2{@R}02_CAT_{r1}{@Y}{^lu}P7{@@}{@L}D2{@R}{^l}07R-25L{^r}{@Y}{^u}C6 4.489942 50.889630 48.2 165.60 3
+OBJECT_SIGN {@L}E1{@R}{^l}20-02{^r}{@Y}{^u}F2|C4{^ru}{@@}{@L}E1{@Y}{^ld}C5|{^lu}C6|{^u}OUTER_11|OUTER_10{^rd}|{^ru}INNER_10 4.492714 50.894209 46.0 290.10 3
+OBJECT_SIGN {@L}E1{@R}{^l}20-02{^r}{@Y}{^u}F2|C4{^ru}{@@}{@L}E1{@Y}{^ld}C5|{^lu}C6|{^u}OUTER_11|OUTER_10{^rd}|{^ru}INNER_10 4.493093 50.893561 46.7 290.10 3
+OBJECT_SIGN {@L}E3{@R}{^l}20-02{^r}{@Y}{^lu}F2|{^u}C4{@@}{@L}E3{@Y}{^ld}OUTER_10|{^lu}APRON_3|OUTER_9{^ru} 4.493672 50.895506 45.0 233.00 3
+OBJECT_SIGN {@L}E3{@R}{^l}20-02{^r}{@Y}{^lu}F2|{^u}C4{@@}{@L}E3{@Y}{^ld}OUTER_10|{^lu}APRON_3|OUTER_9{^ru} 4.493116 50.895022 45.3 233.00 3
+OBJECT_SIGN {@L}E4{@R}{^l}20-02{^r}{@Y}{^ld}E5|{^u}F4|F3{^ru}{@@}{@L}E4{@Y}{^ld}OUTER_9|{^lu}APRON_3|OUTER_8{^rd}|APRON_2_SOUTH{^ru} 4.496010 50.900777 39.5 294.00 3
+OBJECT_SIGN {@L}E4{@R}{^l}20-02{^r}{@Y}{^ld}E5|{^u}F4|F3{^ru}{@@}{@L}E4{@Y}{^ld}OUTER_9|{^lu}APRON_3|OUTER_8{^rd}|APRON_2_SOUTH{^ru} 4.495640 50.901305 38.8 294.00 3
+OBJECT_SIGN {@L}E5{@R}{^l}20-02{^r}{@Y}{^l}F4|{^lu}F3{@@}{@L}E5{@Y}{^ld}OUTER_8|{^l}APRON_2_NORTH|OUTER_7{^ru} 4.496275 50.902889 36.9 200.00 3
+OBJECT_SIGN {@L}E5{@R}{^l}20-02{^r}{@Y}{^l}F4|{^lu}F3{@@}{@L}E5{@Y}{^ld}OUTER_8|{^l}APRON_2_NORTH|OUTER_7{^ru}E5 4.497021 50.903056 36.8 200.00 3
+OBJECT_SIGN {@L}E6{@R}{^l}20-02{^r}{@Y}{^u}F5{@@}{@L}E6{@Y}{^ld}INNER_7|{^lu}OUTER_6|{^u}B3|B1{^r} 4.498558 50.907911 30.9 225.00 3
+OBJECT_SIGN {@L}E6{@R}{^l}20-02{^r}{@Y}{^u}F5{@@}{@L}E6{@Y}{^ld}INNER_7|{^lu}OUTER_6|{^u}B3|B1{^r} 4.499120 50.908611 30.1 225.00 3
+OBJECT_SIGN {@L}F2{@R}{^l}02-20{^r}{@Y}{^ld}C4|{^u}E1|E3{^ru}{^u}E1|E3{^ru}{@@}{@L}F2{@Y}{^lu}W1|{^u}V1|C3{^rd}|C2{^ru} 4.496819 50.895128 46.3 110.10 3
+OBJECT_SIGN {@L}F2{@R}{^l}02-20{^r}{@Y}{^ld}C4|{^u}E1|E3{^ru}{^u}E1|E3{^ru}{@@}{@L}F2{@Y}{^lu}W1|{^u}V1|C3{^rd}|C2{^ru} 4.497174 50.894536 47.0 110.10 3
+OBJECT_SIGN {@L}F3{@R}{^l}02-20{^r}{@Y}{^lu}E4|E5{^ru}{@@}{@L}F3{@Y}{^ld}W2|{^u}Y|W1{^ru} 4.499221 50.900397 40.5 62.00 3
+OBJECT_SIGN {@L}F3{@R}{^l}02-20{^r}{@Y}{^lu}E4|E5{^ru}{@@}{@L}F3{@Y}{^ld}W2|{^u}Y|W1{^ru} 4.499588 50.900838 40.0 62.00 3
+OBJECT_SIGN {@L}F4{@R}{^l}02-20{^r}{@Y}{^u}E4|E5{^r}{@@}{@L}F4{@Y}{^lu}W3|W2{^rd} 4.500033 50.902001 38.5 114.00 3
+OBJECT_SIGN {@L}F4{@R}{^l}02-20{^r}{@Y}{^u}E4|E5{^r}{@@}{@L}F4{@Y}{^lu}W3|W2{^rd} 4.499747 50.902412 37.9 114.00 3
+OBJECT_SIGN {@L}F5{@R}{^l}02-20{^r}{@Y}E6{^ru}{@@}{@L}F5{@Y}{^l}W4|W3{^r} 4.502262 50.907812 31.2 75.60 3
+OBJECT_SIGN {@L}F5{@R}{^l}02-20{^r}{@Y}E6{^ru}{@@}{@L}F5{@Y}{^l}W4|W3{^r} 4.502029 50.907215 31.9 75.60 3
+OBJECT_SIGN {@L}INNER10{@Y}{^ld}E1|{^lu}C5|APRON_3{^ru}|{^u}{^ru}APRON_4|{^u}{^ru}OUTER_11{@@}{@L}INNER10{@Y}{^ld}APRON_3|{^u}{^ld}APRON_3|{^u}INNER_9|OUTER_9{^ru} 4.490597 50.894641 44.9 165.60 3
+OBJECT_SIGN {@L}INNER10{@Y}{^ld}E1|{^lu}C5|APRON_3{^ru}|{^u}{^ru}APRON_4|{^u}{^ru}OUTER_11{@@}{@L}INNER10{@Y}{^ld}APRON_3|{^u}INNER_9|OUTER_9{^ru} 4.490960 50.895482 44.2 165.60 3
+OBJECT_SIGN {@L}INNER2{@Y}{^l}APRON_60|OUTER_1/OUTER_2{^r}{@@}{@L}INNER2{@Y}{^l}OUTER_2/OUTER_3|{^u}INNER_3|J{^r} 4.469679 50.900415 34.9 114.80 3
+OBJECT_SIGN {@L}INNER3{@Y}{^u}INNER_4|APRON_1_NORTH{^r}{@@}{@L}INNER3{@Y}{^l}J|{^u}INNER_2|OUTER_2/OUTER_3{^r} 4.476982 50.902486 34.6 294.80 3
+OBJECT_SIGN {@L}INNER4{@Y}{^l}APRON_1_NORTH|{^u}INNER_3|OUTER_3/OUTER_4{^r}{@@}{@L}INNER4{@Y}{^l}OUTER_4/OUTER_5|{^u}INNER_5|APRON_1_NORTH{^r} 4.484301 50.904617 33.5 114.80 3
+OBJECT_SIGN {@L}INNER5{@Y}{^l}APRON_1_NORTH|{^u}INNER_4|OUTER_4/OUTER_5{^r}{@@}{@L}INNER5{@Y}{^l}OUTER_5/OUTER_6|{^u}INNER_6|K{^r} 4.489206 50.906050 32.4 114.80 3
+OBJECT_SIGN {@L}INNER6{@Y}{^l}M|{^u}INNER_5|OUTER_5/OUTER_6{^r}{@@}{@L}INNER6{@Y}{^l}OUTER_6|{^lu}B3|E6{^ru}|OUTER_7{^rd} 4.493928 50.907422 31.2 114.80 3
+OBJECT_SIGN {@L}INNER7{@Y}{^ld}OUTER_6|{^lu}B3{@@}{@L}INNER7{@Y}{^lu}E5|{^u}INNER_8|{^ru}APRON_1_SOUTH 4.494245 50.905662 33.3 345.60 3
+OBJECT_SIGN {@L}INNER8{@Y}{^ld}E4|{^u}INNER_9|APRON_2_SOUTH{^ru}|APRON_3{^u}{^ru}{@@}{@L}INNER8{@Y}{^ld}APRON_2_NORTH|{^u}{^ld}APRON_1_SOUTH|{^u}INNER_7|OUTER_7{^ru}|E5{^rd} 4.494052 50.902133 37.5 165.60 3
+OBJECT_SIGN {@L}INNER9{@Y}APRON_3{^ru}|{^u}INNER_10|{^lu}OUTER_10|{^lu}E3{@@}{@L}INNER9{@Y}{^ld}APRON_2_SOUTH|{^u}INNER_8|OUTER_8{^ru} 4.491985 50.897272 42.7 165.60 3
+OBJECT_SIGN {@L}J{@Y}{^l}R3|{^u}APRON_50|R2{^r}{@@}{@L}J{@Y}{^lu}B8|{^l}INNER_2|INNER_3{^r}|B7{^ru} 4.477085 50.901000 35.9 204.80 3
+OBJECT_SIGN {@L}J{@Y}{^lu}B8|{^l}INNER_2|INNER_3{^r}|B7{^ru}{@@}{@L}J{@Y}{^l}R3|{^u}APRON_50|R2{^r} 4.476231 50.900776 35.9 24.80 3
+OBJECT_SIGN {@L}N1{@@}{@L}N1{@Y}{^l}CARGO_AREA|{^u}N2|{^r}A7 4.453798 50.900469 32.8 114.80 3
+OBJECT_SIGN {@L}N2{@Y}{^l}A7{@R}{^l}07L{@Y}{^u}N1{@@}{@L}N2{@Y}{^l}CARGO_AREA|{^u}N3 4.456091 50.901147 32.8 114.80 3
+OBJECT_SIGN {@L}N2{@Y}{^u}N3|{^ru}A6{@@}{@L}N2{@Y}{^l}A7|{^u}N1|CARGO_AREA{^r} 4.462891 50.903101 32.6 294.80 3
+OBJECT_SIGN {@L}N3{@Y}{^l}APRON_10|{^ru}N4{@@}{@L}N3{@Y}{^u}N2 4.469386 50.904996 32.0 294.80 3
+OBJECT_SIGN {@L}N3{@Y}{^ld}A6|{^u}N2|CARGO_AREA{^r}{@@}{@L}N3{@Y}{^l}APRON_10|{^u}N4 4.466846 50.904244 32.3 114.80 3
+OBJECT_SIGN {@L}N4{@Y}{^l}APRON_11|{^u}{^l}MIL._WING|{^u}N5|A5{^r}{@@}{@L}N4{@Y}N3{^ru}|APRON_10{^r} 4.472831 50.905447 31.9 294.80 3
+OBJECT_SIGN {@L}N4{@Y}{^l}N3|APRON_10{^u}{@@}{@L}N4{@Y}{^lu}N5 4.470832 50.905178 31.9 65.13 3
+OBJECT_SIGN {@L}N5{@Y}{^l}A5|{^u}N4|APRON_11{^r}{@@}{@L}N5{@Y}{^l}MIL._WING|{^u}N6|A3{^r} 4.477751 50.907160 30.7 124.00 3
+OBJECT_SIGN {@L}N5{@Y}{^u}N6|A3{^r}{@@}{@L}N5{@Y}{^l}A5|{^u}N4 4.480338 50.908132 29.9 300.00 3
+OBJECT_SIGN {@L}N6{@Y}{^l}A3|{^u}N5{@@}{^l}MIL._WING|A1{^r} 4.483224 50.909205 29.0 120.00 3
+OBJECT_SIGN {@L}N6{@Y}{^l}A3|{^u}N5|MIL._WING{^r}{@@}N6|A1{^r}{@R}25R-20{^r} 4.496922 50.914113 24.9 117.00 3
+OBJECT_SIGN {@L}OUTER1{@Y}{^ld}R1|{^u}P1{@R}07L{^r}{@@}{@L}OUTER1{@Y}{^lu}B9|{^u}OUTER_2 4.459242 50.898543 34.0 114.80 3
+OBJECT_SIGN {@L}OUTER1{@Y}{^ld}R1|{^u}P1{@R}07L{^r}{@@}{@L}OUTER1{@Y}{^lu}B9|{^u}OUTER_2 4.459741 50.897886 34.3 114.80 3
+OBJECT_SIGN {@L}OUTER1{@Y}{^lu}B9|{^u}OUTER_2|{^ru}INNER_2|APRON_60{^r}{@@}{@L}OUTER1{@Y}{^ld}R1|{^u}P1{@R}07L{^r} 4.464444 50.900098 34.2 294.80 3
+OBJECT_SIGN {@L}OUTER1{@Y}{^lu}B9|{^u}OUTER_2|{^ru}INNER_2|APRON_60{^r}{@@}{@L}OUTER1{@Y}{^ld}R1|{^u}P1{@R}07L{^r} 4.464974 50.899400 34.6 294.80 3
+OBJECT_SIGN {@L}OUTER10{@Y}{^ld}APRON_3|{^lu}INNER_9|E3{^rd}|OUTER_9{^ru}{@@}{@L}OUTER10{@Y}{^ld}E1|{^lu}C5|{^u}C6|OUTER_11{^ru} 4.492080 50.894711 45.3 345.60 3
+OBJECT_SIGN {@L}OUTER10{@Y}{^ld}APRON_3|{^lu}INNER_9|E3{^rd}|OUTER_9{^ru}{@@}{@L}OUTER10{@Y}{^ld}E1|{^lu}C5|{^u}C6|OUTER_11{^ru} 4.491027 50.894869 44.8 345.60 3
+OBJECT_SIGN {@L}OUTER11{@Y}{^l}P9{@R}07R{@Y}APRON_40{^ru}{@@}{@L}OUTER11{@Y}{^l}APRON_4 4.483072 50.891273 44.4 110.10 3
+OBJECT_SIGN {@L}OUTER11{@Y}{^lu}INNER_10|{^u}E1|C5{^ru}|C6{^rd}{@@}{@L}OUTER11{@Y}{^u}P9|{^u}APRON_40|APRON_4{^r} 4.488490 50.892515 45.9 290.10 3
+OBJECT_SIGN {@L}OUTER2{@Y}{^ld}B8|{^u}OUTER_3|INNER_2/INNER_3{^ru}{@@}{@L}OUTER2{@Y}{^l}INNER_2/APRON_60 4.469084 50.901441 34.2 294.80 3
+OBJECT_SIGN {@L}OUTER2{@Y}{^ld}B8|{^u}OUTER_3|INNER_2/INNER_3{^ru}{@@}{@L}OUTER2{@Y}{^l}INNER_2/APRON_60 4.469586 50.900742 34.7 294.80 3
+OBJECT_SIGN {@L}OUTER2{@Y}{^lu}B7|{^u}OUTER_3|INNER_2/INNER_3{^r}{@@}{@L}OUTER2{@Y}{^ld}INNER_2/INNER_3|{^u}OUTER_1|B8{^ru} 4.473148 50.902641 34.0 294.80 3
+OBJECT_SIGN {@L}OUTER3{@Y}{^lu}B6|{^u}OUTER_4|INNER_3/INNER_4{^r}{@@}{@L}OUTER3{@Y}{^l}INNER_2/INNER_3|B7{^rd} 4.479401 50.903588 34.0 294.80 3
+OBJECT_SIGN {@L}OUTER3{@Y}{^lu}B6|{^u}OUTER_4|INNER_3/INNER_4{^r}{@@}{@L}OUTER3{@Y}{^l}INNER_2/INNER_3|B7{^rd} 4.478927 50.904288 33.3 294.80 3
+OBJECT_SIGN {@L}OUTER4{@Y}{^ld}B5|{^u}OUTER_5|INNER_4/INNER_5{^r}{@@}{@L}OUTER4{@Y}{^l}INNER_3/INNER_4|{^u}OUTER_3|B6{^rd} 4.484070 50.904924 33.2 294.80 3
+OBJECT_SIGN {@L}OUTER4{@Y}{^ld}B5|{^u}OUTER_5|INNER_4/INNER_5{^r}{@@}{@L}OUTER4{@Y}{^l}INNER_3/INNER_4|{^u}OUTER_3|B6{^rd} 4.483753 50.905688 32.4 294.80 3
+OBJECT_SIGN {@L}OUTER5{@Y}{^l}B3|{^u}OUTER_6|INNER_5/INNER_6{^r}{@@}{@L}OUTER5{@Y}{^l}INNER_4/INNER_5|{^u}OUTER_4|B5{^ru} 4.488983 50.906355 32.1 294.80 3
+OBJECT_SIGN {@L}OUTER5{@Y}{^l}B3|{^u}OUTER_6|INNER_5/INNER_6{^r}{@@}{@L}OUTER5{@Y}{^l}INNER_4/INNER_5|{^u}OUTER_4|B5{^ru} 4.488480 50.907035 31.3 294.80 3
+OBJECT_SIGN {@L}OUTER6{@Y}{^ld}B3|{^u}B1|{^rd}INNER_7/OUTER_7{@@}{@L}OUTER6{@Y}{^l}INNER_5/INNER_6|{^u}OUTER_5 4.493700 50.907736 30.8 294.80 3
+OBJECT_SIGN {@L}OUTER6{@Y}{^ld}B3|{^u}B1|{^rd}INNER_7/OUTER_7{@@}{@L}OUTER6{@Y}{^l}INNER_5/INNER_6|{^u}OUTER_5 4.493198 50.908389 30.1 294.80 3
+OBJECT_SIGN {@L}OUTER7{@Y}{^ld}INNER/OUTER_6|{^u}B1{@R}{^ld}25R-20{^rd}{@@}{@L}OUTER7{@Y}{^lu}E5|{^u}OUTER_8|{^ru}APRON_1_SOUTH|{^u}{^ru}APRON_2_NORTH 4.496881 50.905243 34.0 345.60 3
+OBJECT_SIGN {@L}OUTER8{@Y}{^ld}APRON_2_NORTH|{^u}{^ld}APRON_1_SOUTH|{^u}OUTER_7|E5{^rd}{@@}{@L}OUTER8{@Y}{^ld}E4|{^u}OUTER_9|APRON_2_SOUTH{^ru}|INNER_9{^ru} 4.495532 50.902129 37.7 345.60 3
+OBJECT_SIGN {@L}OUTER8{@Y}{^ld}APRON_2_NORTH|{^u}{^ld}APRON_1_SOUTH|{^u}OUTER_7|E5{^rd}{@@}{@L}OUTER8{@Y}{^ld}E4|{^u}OUTER_9|APRON_2_SOUTH{^ru}|INNER_9{^ru} 4.494394 50.902327 37.3 345.60 3
+OBJECT_SIGN {@L}OUTER9{@Y}{^ld}APRON_2_SOUTH|{^lu}INNER_8|{^u}OUTER_8|E4{^ru}{@@}{@L}OUTER9{@Y}{^lu}E3|{^u}OUTER_10|APRON_3{^ru}|INNER_10{^ru} 4.493321 50.897063 43.3 345.60 3
+OBJECT_SIGN {@L}OUTER9{@Y}{^ld}APRON_2_SOUTH|{^lu}INNER_8|{^u}OUTER_8|E4{^ru}{@@}{@L}OUTER9{@Y}{^lu}E3|{^u}OUTER_10|APRON_3{^ru}|INNER_10{^ru} 4.492334 50.897221 42.9 345.60 3
+OBJECT_SIGN {@L}P1{@R}07L{@Y}{^u}A7{@@}{@L}P1{@Y}{^l}OUTER_1|{^lu}R1 4.455606 50.898241 33.6 340.48 3
+OBJECT_SIGN {@L}P1{@R}07L{@Y}{^u}A7{@@}{@L}P1{@Y}{^l}OUTER_1|{^lu}R1 4.456983 50.898200 33.8 12.00 3
+OBJECT_SIGN {@L}P3{@R}{^l}20_CAT_{r1}|{^lu}25R_CAT_{r1}/{r2}{@@}{@L}P3{@Y}W4{^r} 4.505158 50.912348 26.5 70.00 3
+OBJECT_SIGN {@L}P3{@R}{^l}20_CAT_{r1}|{^lu}25R_CAT_{r1}/{r2}{@@}{@L}P3{@Y}W4{^r} 4.504517 50.911680 27.1 39.00 3
+OBJECT_SIGN {@L}P6{@R}02_CAT_{r1}{^u}F1{@@}{@L}P6{@Y}{^u}D1{@R}{^l}07R-25L{^r} 4.495289 50.890710 49.7 79.82 3
+OBJECT_SIGN {@L}P6{@R}02_CAT_{r1}{^u}F1{@@}{@L}P6{@Y}{^u}D1{@R}07R-25L 4.495141 50.890291 49.9 75.60 3
+OBJECT_SIGN {@L}P7{@R}02_CAT_{r1}{@@}{@L}P7{@Y}D2{^r} 4.489968 50.886999 49.2 256.09 3
+OBJECT_SIGN {@L}P7{@R}02_CAT_{r1}{@@}{@L}P7{@Y}D2{^r} 4.490508 50.888330 49.0 256.09 3
+OBJECT_SIGN {@L}P9{@R}07R{@@}{@L}P9{@Y}{^u}APRON_40|OUTER_11{^r} 4.478957 50.890265 43.1 200.10 3
+OBJECT_SIGN {@L}P9{@R}07R{@@}{@L}P9{@Y}{^u}APRON_40|OUTER_11{^r} 4.480009 50.890333 43.5 200.10 3
+OBJECT_SIGN {@L}R1{@Y}{^l}APRON_56|{^u}R2|ABELAG{^r}{@@}{@L}R1{@Y}{^u}P1{@R}07L{^ru} 4.464604 50.896087 35.9 294.80 3
+OBJECT_SIGN {@L}R1{@Y}{^l}APRON_56|{^u}R2|ABELAG{^r}{@@}{@L}R1{@Y}{^u}P1{@R}07L{^ru} 4.464246 50.896612 35.6 294.80 3
+OBJECT_SIGN {@L}R1{@Y}{^l}APRON_56|ABELAG{^rd}|GEN._AVIATION_/_CAX_FBO{^r}{@@}{@L}R1{@Y}{^l}ABELAG|APRON_56{^r} 4.467225 50.896793 36.2 294.80 3
+OBJECT_SIGN {@L}R1{@Y}{^l}APRON_56|ABELAG{^rd}|GEN._AVIATION_/_CAX_FBO{^r}{@@}{@L}R1{@Y}{^l}ABELAG|APRON_56{^r} 4.466830 50.897372 35.9 294.80 3
+OBJECT_SIGN {@L}R1{@Y}{^l}APRON_60|ABELAG{^rd}|GEN._AVIATION_/_CAX_FBO{^r}{@@}{@L}R1{@Y}{^l}ABELAG|{^u}P1|{^r}APRON_56 4.468352 50.897099 36.4 294.80 3
+OBJECT_SIGN {@L}R1{@Y}{^l}APRON_60|ABELAG{^rd}|GEN._AVIATION_/_CAX_FBO{^r}{@@}{@L}R1{@Y}{^l}ABELAG|{^u}P1|{^r}APRON_56 4.467915 50.897702 36.0 294.80 3
+OBJECT_SIGN {@L}R1{@Y}{^u}P1{@R}07L{@Y}OUTER_1{^rd}{@@}{@L}R1{@Y}{^l}APRON_56|{^u}R2|ABELAG{^r} 4.459197 50.897102 34.4 65.00 3
+OBJECT_SIGN {@L}R1{@Y}{^u}P1{@R}07L{@Y}OUTER_1{^rd}{@@}{@L}R1{@Y}{^l}APRON_56|{^u}R2|ABELAG{^r} 4.458779 50.896477 34.5 65.00 3
+OBJECT_SIGN {@L}R2{@Y}{^l}GEN._AVIATION_/_CAX_FBO_/_ABELAG|{^u}R1|APRON_60{^r}{@@}{@L}R2{@Y}{^l}J|{^u}R3|APRON_50{^r} 4.471599 50.898734 36.3 114.80 3
+OBJECT_SIGN {@L}R2{@Y}{^l}GEN._AVIATION_/_CAX_FBO_/_ABELAG|{^u}R1|APRON_60{^r}{@@}{@L}R2{@Y}{^l}J|{^u}R3|APRON_50{^r} 4.472348 50.898188 36.8 114.80 3
+OBJECT_SIGN {@L}R2{@Y}{^u}R3|{^l}J{@@}{@L}R2{@Y}{^l}APRON_50|{^u}R1|APRON_60{^r} 4.475604 50.899862 36.4 294.80 3
+OBJECT_SIGN {@L}R3{@Y}{^l}APRON_50|{^u}R2|J{^r}{@@}{@L}R3{@Y}{^lu}APRON_1_SOUTH|APRON_2_NORTH{^ru} 4.479350 50.900960 36.3 114.80 3
+OBJECT_SIGN {@L}V1{@Y}{^ld}Y|C1{^ru}{@@}{@L}V1{@Y}{^ld}C2|{^lu}C3|{^u}F2|W1{^rd} 4.505229 50.896445 46.6 290.10 3
+OBJECT_SIGN {@L}V1{@Y}{^ld}Y|C1{^ru}{@@}{@L}V1{@Y}{^ld}C2|{^lu}C3|{^u}F2|W1{^rd} 4.504920 50.896977 45.9 290.10 3
+OBJECT_SIGN {@L}W1{@Y}{^ld}V1|{^l}C2|{^u}C3|F2{^ru}{@@}{@L}W1{@Y}{^lu}F3|{^u}W2|Y{^rd} 4.499259 50.896405 45.5 165.60 3
+OBJECT_SIGN {@L}W1{@Y}{^ld}V1|{^l}C2|{^u}C3|F2{^ru}{@@}{@L}W1{@Y}{^lu}F3|{^u}W2|Y{^rd} 4.500081 50.896272 45.8 165.60 3
+OBJECT_SIGN {@L}W1{@Y}{^lu}F3|{^u}W2|Y{^rd}{@@}{@L}W1{@Y}{^ld}V1|{^l}C2|{^u}C3|F2{^ru} 4.501254 50.899127 42.5 345.60 3
+OBJECT_SIGN {@L}W1{@Y}{^lu}F3|{^u}W2|Y{^rd}{@@}{@L}W1{@Y}{^ld}V1|{^l}C2|{^u}C3|F2{^ru} 4.500412 50.899258 42.2 345.60 3
+OBJECT_SIGN {@L}W2{@Y}{^lu}Y|{^u}W1|F3{^rd}{@@}{@Y}{^ld}F4|{^u}W3 4.501188 50.901070 39.9 165.60 3
+OBJECT_SIGN {@L}W2{@Y}{^lu}Y|{^u}W1|F3{^rd}{@@}{@Y}{^ld}F4|{^u}W3 4.501959 50.900949 40.2 165.60 3
+OBJECT_SIGN {@L}W3{@Y}{^u}W2|F4{^ru}{@@}{@L}W3{@Y}{^l}F5|{^u}P3{@R}20-25R 4.502391 50.903956 36.2 165.60 3
+OBJECT_SIGN {@L}W3{@Y}{^u}W2|F4{^ru}{@@}{@L}W3{@Y}{^l}F5|{^u}P3{@R}20-25R 4.503148 50.903837 36.4 165.60 3
+OBJECT_SIGN {@L}W4{@Y}{^u}P3{@R}{^l}20-25R{^l}{@@}{@L}W4{@Y}{^u}W3|{^r}F5 4.505678 50.910031 28.8 345.60 3
+OBJECT_SIGN {@L}W4{@Y}{^u}P3{@R}{^l}20-25R{^l}{@@}{@L}W4{@Y}{^u}W3|{^r}F5 4.504898 50.910155 28.7 345.60 3
+OBJECT_SIGN {@L}Y{@Y}{^u}C1|V1{^rd}{@@}{@L}Y{@Y}{^ld}W1|{^u}F3|W2{^ru} 4.505205 50.898260 44.3 242.00 3
+OBJECT_SIGN {@L}Y{@Y}{^u}C1|V1{^rd}{@@}{@L}Y{@Y}{^ld}W1|{^u}F3|W2{^ru} 4.505565 50.898656 43.8 242.00 3
+OBJECT_SIGN {@R}STOP 4.477658 50.900540 36.3 114.80 3
+OBJECT_SIGN {@R}STOP 4.476516 50.900214 36.4 294.80 3
+OBJECT_SIGN {@R}STOP 4.477581 50.900640 36.2 114.80 3
+OBJECT_SIGN {@R}STOP 4.476446 50.900317 36.3 294.80 3
+OBJECT_SIGN {@Y}{^l}A1|B3{^ru}{@@}{^ld}B5|{^lu}B6|A3{^r} 4.492032 50.909122 29.3 294.80 3
+OBJECT_SIGN {@Y}{^l}A1|B3{^ru}{@@}{^ld}B5|{^lu}B6|A3{^r} 4.491587 50.909724 28.7 294.80 3
+OBJECT_SIGN {@Y}{^l}B3{@@}{^l}A1|B1{^rd}|P3{^ru} 4.497413 50.910682 27.9 114.80 3
+OBJECT_SIGN {@Y}{^l}B3{@@}{^l}A1|B1{^rd}|P3{^ru} 4.496977 50.911295 27.3 114.80 3
+OBJECT_SIGN {@Y}{^l}CAX_FBO 4.469849 50.893885 38.2 200.00 3
+OBJECT_SIGN {@Y}{^l}F1|P7{^r}{@@}{@Y}{^lu}C5{@R}{^l}07R-25L{^r} 4.492618 50.891410 48.2 165.60 3
+OBJECT_SIGN {@Y}{^l}F1|P7{^r}{@@}{@Y}{^lu}C5{@R}{^l}07R-25L{^r} 4.493823 50.891439 48.6 165.60 3
+OBJECT_SIGN {@Y}{^l}GEN_AVIATION/CAX_FBO|{^u}APRON_51{^u}{@@}{@Y}{^l}R1|{^lu}APRON_56|{^u}APRON_60{^u}|R2{^r} 4.469625 50.896764 36.9 204.80 3
+OBJECT_SIGN {@Y}{^l}OUTER_1|B9{^ru}|OUTER_2{^r}{@@}{^l}INNER_2|{^u}APRON_60 4.466332 50.899594 34.8 24.80 3
+OBJECT_SIGN {@Y}{^l}OUTER_1|B9{^ru}|OUTER_2{^r}{@@}{^l}INNER_2|{^u}APRON_60 4.467348 50.899907 34.8 24.80 3
+OBJECT_SIGN {@Y}{^l}OUTER_2|{^lu}B8|B7{^ru}|OUTER_3{^r}{@@}{^l}INNER_3|{^u}J|INNER_2{^r} 4.476131 50.902452 34.5 24.80 3
+OBJECT_SIGN {@Y}{^l}OUTER_2|{^u}B8|OUTER_3{^r}{@@}{^l}INNER_3|INNER_2{^r} 4.471553 50.901121 34.8 24.80 3
+OBJECT_SIGN {@Y}{^l}OUTER_3|B6{^ru}|OUTER_4{^r}{@@}{^l}INNER_4|INNER_3{^r} 4.481652 50.904034 33.8 24.80 3
+OBJECT_SIGN {@Y}{^l}OUTER_3|B6{^ru}|OUTER_4{^r}{@@}{^l}INNER_4|INNER_3{^r} 4.480791 50.903783 34.0 24.80 3
+OBJECT_SIGN {@Y}{^l}OUTER_4|{^u}B5|OUTER_5{^r}{@@}{@Y}{^l}INNER_5|INNER_4{^r} 4.486220 50.905357 32.9 24.80 3
+OBJECT_SIGN {@Y}{^l}OUTER_4|{^u}B5|OUTER_5{^r}{@@}{@Y}{^l}INNER_5|INNER_4{^r} 4.486962 50.905575 32.8 24.80 3
+OBJECT_SIGN {@Y}{^l}OUTER_5|OUTER_6{^r}{@@}{@Y}{^l}INNER_6|{^ru}K|INNER_5{^r} 4.490608 50.906648 31.9 25.00 3
+OBJECT_SIGN {@Y}{^l}OUTER_5|OUTER_6{^r}{@@}{@Y}{^l}INNER_6|{^u}M|INNER_5{^r} 4.491912 50.907008 31.5 25.00 3
+OBJECT_SIGN {@Y}{^l}R1{^r}|{^lu}APRON_56{^ru}{@@}{@Y}ABELAG{^ru} 4.466611 50.896410 36.2 25.00 3
+OBJECT_SIGN {@Y}{^l}R1{^r}|{^lu}APRON_56{^ru}{@@}{@Y}ABELAG{^ru} 4.466083 50.896274 36.2 25.00 3
+OBJECT_SIGN {@Y}{^l}R1|{^lu}APRON_56|{^u}APRON_60{^u}|R2{^r}{@@}{@Y}{^u}APRON_51{^u}|ABELAG{^r} 4.468715 50.897027 36.5 6.00 3
+OBJECT_SIGN {@Y}{^l}R1|{^lu}APRON_56|APRON_60{^u}|R2{^r}{@@}{@Y}{^l}GEN._AVIATION_/_CAX_FBO|{^u}APRON_51{^u} 4.469321 50.897226 36.6 24.80 3
+OBJECT_SIGN {@Y}{^ld}A6|B9{^rd}|B8{^ru}{@@}{^l}P1|A7{^r} 4.466600 50.901713 33.8 294.80 3
+OBJECT_SIGN {@Y}{^ld}A6|B9{^rd}|B8{^ru}{@@}{^l}P1|A7{^r} 4.466201 50.902304 33.4 294.80 3
+OBJECT_SIGN {@Y}{^ld}B1|{^lu}A1|P3{^r}{@@}{@Y}{^l}F5|E6{^rd} 4.501436 50.910107 28.6 345.60 3
+OBJECT_SIGN {@Y}{^ld}B1|{^lu}A1|P3{^r}{@@}{@Y}{^l}F5|E6{^rd} 4.500308 50.910289 28.4 345.60 3
+OBJECT_SIGN {@Y}{^ld}B5|{^lu}B6|A3{^r}{@@}{^l}A1|B3{^ru} 4.486216 50.907411 30.8 114.80 3
+OBJECT_SIGN {@Y}{^ld}B5|{^lu}B6|A3{^r}{@@}{^l}A1|B3{^ru} 4.485764 50.908023 30.2 114.80 3
+OBJECT_SIGN {@Y}{^ld}B8|{^lu}B9|A6{^ru}{@@}{^l}A5|B7{^rd} 4.470569 50.903577 33.1 114.80 3
+OBJECT_SIGN {@Y}{^ld}B8|{^lu}B9|A6{^ru}{@@}{^l}A5|B7{^rd} 4.470996 50.902997 33.5 114.80 3
+OBJECT_SIGN {@Y}{^ld}E4|{^lu}E5|F3{^rd}|F4{^ru}{@@}{@Y}{^ld}F2|{^lu}C4|E3{^rd}|E1{^ru} 4.497440 50.900246 40.4 345.60 3
+OBJECT_SIGN {@Y}{^ld}E4|{^lu}E5|F3{^rd}|F4{^ru}{@@}{@Y}{^ld}F2|{^lu}C4|E3{^rd}|E1{^ru} 4.496284 50.900428 40.0 345.60 3
+OBJECT_SIGN {@Y}{^ld}F2|{^lu}C4|E3{^rd}|E1{^ru}{@@}{@Y}{^ld}E4|{^lu}E5|F3{^rd}|F4{^ru} 4.494425 50.895830 44.9 165.60 3
+OBJECT_SIGN {@Y}{^ld}F2|{^lu}C4|E3{^rd}|E1{^ru}{@@}{@Y}{^ld}E4|{^lu}E5|F3{^rd}|F4{^ru} 4.495559 50.895658 45.4 165.60 3
+OBJECT_SIGN {@Y}{^ld}F4|{^lu}F3|E4{^ru}{@@}{^lu}E6|F5{^r} 4.498655 50.903273 36.7 165.60 3
+OBJECT_SIGN {@Y}{^ld}F4|{^lu}F3|E4{^ru}{@@}{^lu}E6|F5{^r} 4.497538 50.903449 36.3 165.60 3
+OBJECT_SIGN {@Y}{^lu}B7|A5{^r}{@@}{^l}A3|B6{^rd}|B5{^ru} 4.480544 50.905776 32.1 114.80 3
+OBJECT_SIGN {@Y}{^lu}B7|A5{^r}{@@}{^l}A3|B6{^rd}|B5{^ru} 4.480125 50.906358 31.5 114.80 3
+OBJECT_SIGN {@Y}{^lu}C6|D2{^rd}{@@}P9{^r} 4.487533 50.890343 46.8 290.10 3
+OBJECT_SIGN {@Y}{^lu}C6|D2{^rd}{@@}P9{^r} 4.487172 50.890958 46.3 290.10 3
+OBJECT_SIGN {@Y}{^lu}D1|C3{^rd}|C4{^ru}{@@}{^ld}C2 4.501078 50.893463 49.2 110.10 3
+OBJECT_SIGN {@Y}{^lu}D1|C3{^rd}|C4{^ru}{@@}{^ld}C2 4.500716 50.894081 48.4 110.10 3
+OBJECT_SIGN {@Y}{^lu}D2|C6{^rd}{@@}{^ld}C5{@R}{^l}20-02{^r} 4.491983 50.891361 48.0 110.10 3
+OBJECT_SIGN {@Y}{^lu}D2|C6{^rd}{@@}{^ld}C5{@R}{^l}20-02{^r} 4.491646 50.891987 47.4 110.10 3
+OBJECT_SIGN {@Y}{^lu}E6|F5{^r}{@@}{@Y}{^ld}F4|{^lu}F3|E4{^ru} 4.498924 50.906866 32.2 345.60 3
+OBJECT_SIGN {@Y}{^lu}E6|F5{^r}{@@}{@Y}{^ld}F4|{^lu}F3|E4{^ru} 4.500045 50.906681 32.5 345.60 3
+OBJECT_SIGN {@Y}{^u}APRON_51{^u}|ABELAG{^r}{@@}{@Y}{^l}R1|{^lu}APRON_56|{^u}APRON_60{^u}|R2{^r} 4.468787 50.896575 36.7 186.00 3
+OBJECT_SIGN {@Y}{^u}APRON_54{@@}{@Y}{^u}APRON_51|ABELAG{^ru} 4.468437 50.895904 36.9 24.80 3
+OBJECT_SIGN {@Y}{^u}APRON_54{@@}{@Y}{^u}APRON_51|ABELAG{^ru} 4.467622 50.895671 36.8 24.80 3
+OBJECT_SIGN {@Y}A1{@R}25R_CAT_{r1}/{r2}{^r}|20_CAT_{r1}{^ru}{@@}{@L}A1{@Y}{^l}N6|{^u}MIL._WING 4.499601 50.913681 25.3 204.80 3
+OBJECT_SIGN {@Y}A1{@R}25R_CAT_{r1}/{r2}{^r}|20_CAT_{r1}{^ru}{@@}{@L}A1{@Y}{^l}N6|{^u}MIL._WING 4.500517 50.913915 25.1 204.80 3
+OBJECT_SIGN {@Y}ABELAG{^r} 4.468477 50.893570 37.8 200.00 3
+OBJECT_SIGN {@Y}C1{^ru} 4.512825 50.896183 47.9 110.10 3
+OBJECT_SIGN {@Y}C1{^ru} 4.512476 50.896780 47.1 110.10 3
+OBJECT_SIGN {@Y}C2{^ru}{@@}C1{^ld} 4.508351 50.895144 48.7 110.10 3
+OBJECT_SIGN {@Y}C2{^ru}{@@}C1{^ld} 4.508021 50.895752 47.9 110.10 3
+OBJECT_SIGN {@Y}C5{^rd}{@R}{^l}25L-07R{^r}{@@}{@Y}{^ld}E1|{^lu}E3|C4{^rd}|F2{^ru} 4.494505 50.893070 47.6 165.60 3
+OBJECT_SIGN {@Y}C5{^rd}{@R}{^l}25L-07R{^r}{@@}{@Y}{^ld}E1|{^lu}E3|C4{^rd}|F2{^ru} 4.493375 50.893249 47.0 165.60 3
+OBJECT_SIGN {@Y}C5{^ru}{@R}{^l}02-20{^r}{@@}{@Y}{^ld}C4|{^lu}C3|D1{^rd} 4.496089 50.892306 48.8 110.10 3
+OBJECT_SIGN {@Y}C5{^ru}{@R}{^l}02-20{^r}{@@}{@Y}{^ld}C4|{^lu}C3|D1{^rd} 4.495745 50.892931 48.1 110.10 3
+OBJECT_SIGN {@Y}P7{^r}{@@}{@R}{^l}07R-25L{^r}{@Y}F1{^r} 4.492744 50.888803 49.8 165.60 3
+OBJECT_SIGN {@Y}P7{^r}{@@}{@R}{^l}07R-25L{^r}{@Y}F1{^r} 4.491653 50.888988 49.2 165.60 3
+OBJECT_SIGN {no-entry} 4.511110 50.896641 47.2 330.00 3
+OBJECT_SIGN {no-entry} 4.510777 50.896763 47.0 330.00 3
+OBJECT_SIGN {no-entry} 4.508516 50.897580 45.6 330.00 3
+OBJECT_SIGN {no-entry} 4.508345 50.897645 45.5 330.00 3
+OBJECT EBGB.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 4.392159 50.947680 15.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 4.390272 50.946394 16.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 4.393070 50.951238 14.7 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 4.391224 50.948777 15.0 0.00

@@ -1,4 +1,5 @@
-OBJECT_SHARED Models/Airport/ndb.ac 1.741806 50.883167 125.3 180
-OBJECT_SHARED Models/Power/generic_pylon_100m.ac 1.7227778 50.9219444 102.73 180
-OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac 1.685 50.9475 -2.78 191.48
-OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac 1.6203226 50.9340021 -3.99 182.74
+OBJECT_BASE 2974522.btg
+OBJECT LFIS.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 1.732810 50.880193 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 1.739116 50.884973 -9999.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 1.734234 50.883207 127.5 0.00

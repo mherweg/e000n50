@@ -1,12 +1,4 @@
-OBJECT_SHARED Models/Misc/trigpoint.ac 0.537094 52.413596 24.14 180
-OBJECT_SHARED Models/Misc/trigpoint.ac 0.540687 52.384761 26.05 180
-OBJECT_SHARED Models/Misc/trigpoint.ac 0.581319 52.495755 42.92 180
-OBJECT_SHARED Models/Misc/trigpoint.ac 0.621035 52.405442 52.57 180
-OBJECT_SHARED Models/Airport/ils.xml 0.549008 52.403069 7.44 304.15
-OBJECT_SHARED Models/Airport/ils.xml 0.572678 52.415419 8.89 124.17
-OBJECT_SHARED Models/Airport/tacan.xml 0.547964 52.406419 8.49 180
-OBJECT_SHARED Models/Communications/radio-medium.xml 0.7402778 52.4286111 1.75 180
-OBJECT_SHARED Models/Communications/radio-medium.xml 0.7429814 52.4208623 -35.83 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 0.7227778 52.4488889 -376.33 180
-OBJECT_SHARED Models/Airport/localizer.xml 0.534839 52.4008 7.61 329.21
-OBJECT_SHARED Models/Airport/localizer.xml 0.582061 52.418175 10.97 145.66
+OBJECT_BASE 2958234.btg
+OBJECT EGUL.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 0.563371 52.408222 8.5 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 0.547093 52.415564 10.3 0.00

@@ -1,2 +1,4 @@
-OBJECT_SHARED Models/Power/windturbine.xml 7.6994444 50.5563889 283.2 180
-OBJECT_SHARED Models/Communications/radio-medium.xml 7.6005556 50.535 232.39 180
+OBJECT_BASE 3072802.btg
+OBJECT EDRW.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 7.560634 50.566753 350.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 7.568807 50.568257 339.4 0.00

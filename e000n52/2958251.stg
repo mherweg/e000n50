@@ -1,3 +1,6 @@
-OBJECT_SHARED Models/Misc/trigpoint.ac 0.844856 52.657327 98.25 180
-OBJECT_SHARED Models/Misc/trigpoint.ac 0.970285 52.727829 44.69 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_05.ac 0.9736111 52.7241667 -347.7 180
+OBJECT_BASE 2958251.btg
+OBJECT EGSA.btg
+OBJECT_SHARED Models/Airport/windsock.xml 0.925314 52.625942 64.9 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 0.930687 52.633011 59.9 0.00
+OBJECT EG96.btg
+OBJECT_SHARED Models/Airport/windsock.xml 0.962457 52.735029 36.2 0.00

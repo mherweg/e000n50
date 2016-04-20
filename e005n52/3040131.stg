@@ -1,3 +1,10 @@
-OBJECT_SHARED Models/Power/windturbine.xml 5.9758333 52.0469444 89.19 180
-OBJECT_SHARED Models/Airport/tacan.xml 5.872778 52.057222 43.73 180
-OBJECT_SHARED Models/Communications/vordme_1.xml 5.872783 52.057232 43.73 180
+OBJECT_BASE 3040131.btg
+OBJECT EHDL.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 5.864131 52.047295 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 5.879875 52.072037 50.7 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 5.870606 52.059937 44.7 0.00
+OBJECT EHTL.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 5.962298 52.071899 85.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 5.972046 52.071904 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 5.965153 52.061061 90.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 5.954902 52.061058 -9999.0 0.00

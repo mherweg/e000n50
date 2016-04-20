@@ -1,5 +1,4 @@
-OBJECT_SHARED Models/Power/windturbine.xml 9.2503165 56.0896886 87.69 180
-OBJECT_SHARED Models/Power/windturbine.xml 9.2838627 56.0106567 66.06 180
-OBJECT_SHARED Models/Power/windturbine.xml 9.3332649 56.0148279 77.6 180
-OBJECT_SHARED Models/Power/windturbine.xml 9.3582555 56.0650736 88.71 180
-OBJECT_SHARED Models/Power/windturbine.xml 9.3703925 56.0479484 84.38 180
+OBJECT_BASE 3105921.btg
+OBJECT EK45.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 9.388642 56.106476 96.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 9.398854 56.102041 97.1 0.00

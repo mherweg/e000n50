@@ -1,4 +1,6 @@
-OBJECT_SHARED Models/Misc/trigpoint.ac 1.543113 52.408946 36.27 180
-OBJECT_SHARED Models/Misc/trigpoint.ac 1.700299 52.462171 16.74 180
-OBJECT_SHARED Models/Misc/trigpoint.ac 1.716158 52.490107 20.54 180
-OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml 1.70803 52.47529 -1 0
+OBJECT_BASE 2974618.btg
+OBJECT EGSM.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 1.612937 52.435557 21.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 1.619489 52.435583 19.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 1.620025 52.435103 20.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 1.623594 52.435117 21.6 0.00

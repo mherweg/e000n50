@@ -1,2 +1,6 @@
-OBJECT_SHARED Models/Communications/radio-medium.xml 9.5388889 54.2452778 -116.8 180
-OBJECT_SHARED Models/Communications/radio-medium.xml 9.5416667 54.2455556 -120.22 180
+OBJECT_BASE 3105802.btg
+OBJECT EDXR.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 9.595793 54.217385 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 9.598175 54.219975 3.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 9.606403 54.216434 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 9.605793 54.224476 4.5 0.00

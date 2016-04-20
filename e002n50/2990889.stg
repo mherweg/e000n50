@@ -1,5 +1,6 @@
-OBJECT_SHARED Models/Power/generic_pylon_100m.ac 2.2538889 50.6672222 10.66 180
-OBJECT_SHARED Models/Industrial/generic_silo_1.ac 2.4169444 50.6408333 -24.2 180
-OBJECT_SHARED Models/Industrial/water-tower.ac 2.4088889 50.7427778 67.33 180
-OBJECT_SHARED Models/Industrial/water-tower.ac 2.4097222 50.7438889 62.88 180
-OBJECT_SHARED Models/Industrial/water-tower.ac 2.4138889 50.7013889 72.33 180
+OBJECT_BASE 2990889.btg
+OBJECT LF01.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 2.446799 50.642754 16.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 2.443480 50.642236 16.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 2.436535 50.640580 17.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 2.442898 50.644130 17.0 0.00

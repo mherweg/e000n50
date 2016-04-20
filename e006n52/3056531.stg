@@ -1,3 +1,7 @@
-OBJECT_SHARED Models/Airport/ndb.ac 6.876164 52.267936 28.07 180
-OBJECT_SHARED Models/Airport/tacan.xml 6.891528 52.274517 31.66 180
-OBJECT_SHARED Models/Communications/vordme_1.xml 6.891502 52.274521 31.65 180
+OBJECT_BASE 3056531.btg
+OBJECT EHTW.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 6.870476 52.268848 26.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 6.907870 52.282829 35.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 6.870740 52.272045 27.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 6.897366 52.264664 35.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 6.888411 52.276505 30.5 0.00

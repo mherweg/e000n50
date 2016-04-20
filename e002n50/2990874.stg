@@ -1,9 +1,1 @@
-OBJECT_SHARED Models/Communications/radio-medium.xml 2.66 50.4186111 62.79 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml 2.7225 50.47 -395.51 180
-OBJECT_SHARED Models/Power/generic_pylon_200m.ac 2.6391667 50.4258333 276.64 180
-OBJECT_SHARED Models/Power/generic_pylon_200m.ac 2.6516667 50.4208333 304.8 180
-OBJECT_SHARED Models/Power/generic_pylon_200m.ac 2.7075 50.4383333 -26.13 180
-OBJECT_SHARED Models/Industrial/water-tower.ac 2.5433333 50.4577778 106.14 180
-OBJECT_SHARED Models/Industrial/water-tower.ac 2.6738889 50.4633333 56.37 180
-OBJECT_SHARED Models/Industrial/water-tower.ac 2.7175 50.4238889 91.85 180
-OBJECT_SHARED Models/Industrial/water-tower.ac 2.745 50.4366667 67.87 180
+OBJECT_BASE 2990874.btg

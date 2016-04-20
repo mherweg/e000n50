@@ -1,3 +1,4 @@
-OBJECT_SHARED Models/Industrial/water-tower.ac 1.6469444 50.7705556 87.91 180
-OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac 1.5505556 50.8091667 -2.31 130.17
-OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac 1.5175 50.7555556 -0.68 91.26
+OBJECT_BASE 2974514.btg
+OBJECT HCRG.btg
+OBJECT_SHARED Models/Airport/windsock.xml 1.582810 50.868952 -9999.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 1.581797 50.868804 -9999.0 0.00
