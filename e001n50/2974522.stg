@@ -1,4 +1,5 @@
 OBJECT_SHARED Models/Airport/ndb.ac 1.741806 50.883167 125.3 180
-OBJECT_SHARED Models/Power/generic_pylon_100m.ac 1.7227778 50.9219444 102.73 180
+OBJECT_SHARED Models/Communications/Antenna1.ac 1.7227778 50.9219444 133.67 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac 1.685 50.9475 -2.78 191.48
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac 1.6203226 50.9340021 -3.99 182.74
+OBJECT_STATIC memorial_DP.ac 1.709909 50.924846 124.47 330

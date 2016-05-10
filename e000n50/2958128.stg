@@ -21,3 +21,4 @@ OBJECT_SHARED Models/Maritime/Civilian/Severn_Lifeboat.xml 0.05398 50.7886 1.96 
 OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac 0.06058 50.77641 -0.25 0
 OBJECT_SHARED Models/Communications/VOR-DME_3.ac 0.121944 50.760556 76.67 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 0.0073333 50.7633333 -0.31 356.4
+OBJECT_STATIC NewhavenIncinerator.ac 0.048815 50.802316 0.91 110

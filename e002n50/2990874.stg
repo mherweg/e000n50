@@ -7,3 +7,4 @@ OBJECT_SHARED Models/Industrial/water-tower.ac 2.5433333 50.4577778 106.14 180
 OBJECT_SHARED Models/Industrial/water-tower.ac 2.6738889 50.4633333 56.37 180
 OBJECT_SHARED Models/Industrial/water-tower.ac 2.7175 50.4238889 91.85 180
 OBJECT_SHARED Models/Industrial/water-tower.ac 2.745 50.4366667 67.87 180
+OBJECT_STATIC TourLanterne.ac 2.719668 50.401158 169.95 97

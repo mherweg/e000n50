@@ -4,3 +4,4 @@ OBJECT_SHARED Models/Power/generic_pylon_100m.ac 1.6658333 50.6355556 1.98 180
 OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml 1.5136111 50.7311111 -1.3 22.78
 OBJECT_SHARED Models/Power/windturbine_flash.xml 1.5647222 50.7225 0 180
 OBJECT_SHARED Models/Power/windturbine_flash.xml 1.7432534 50.6281679 46.27 180
+OBJECT_SHARED Models/Misc/NDBoulogne.ac 1.6146 50.7261 59.47 30
