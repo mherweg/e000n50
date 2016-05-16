@@ -1,5 +1,9 @@
 OBJECT_BASE 3106144.btg
 OBJECT ENNO.btg
-OBJECT_SHARED Models/Airport/windsock_lit.xml 9.210369 59.566970 19.0 0.00
-OBJECT_SHARED Models/Airport/windsock_lit.xml 9.219623 59.561966 20.4 0.00
-OBJECT_SHARED Models/Airport/beacon.xml 9.216627 59.564470 19.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 9.210369 59.566970 18.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 9.219623 59.561966 21.3 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 9.216627 59.564470 19.3 0.00
+OBJECT ENNO.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 9.210369 59.566970 18.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 9.219623 59.561966 21.3 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 9.216627 59.564470 19.3 0.00
